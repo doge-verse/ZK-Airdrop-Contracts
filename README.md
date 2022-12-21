@@ -17,3 +17,4 @@ Merkle tree + Pedersen Hash.
 PedersenHash(nullifier || sercet) = leaf on the merkle tree.
 
 Nullifer and secret means that the user owns one of the leaves of the Merkle tree. These two are private inputs in circom circuit.
+![Airdrop circuit](./docs/Merkle_pedersen.png)
